@@ -22,4 +22,5 @@ int main(void)
 		printf("i% is zero\n", n);
 
 	return (0);
+}
 			
