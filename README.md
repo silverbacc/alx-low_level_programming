@@ -1,1 +1,1 @@
-c language
+more on pointers and arrays
